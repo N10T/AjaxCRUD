@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Desko",
+      "occupation": "aa",
+      "weapon": "qqq",
+      "cartoon": false,
+      "id": 4,
+      "chr-id": "4"
+    },
+    {
+      "name": "donnie darko",
+      "occupation": "reading and time traveling",
+      "weapon": "bunny mask",
+      "cartoon": false,
+      "id": 5,
+      "chr-id": "5"
+    },
+    {
+      "name": "woot",
+      "occupation": "mootmoot",
+      "weapon": "deadly",
+      "cartoon": false,
+      "id": 6,
+      "chr-id": "6"
+    },
+    {
+      "name": "gui",
+      "occupation": "bar!",
+      "weapon": "ccc",
+      "cartoon": false,
+      "id": 7
+    }
+  ]
+}
